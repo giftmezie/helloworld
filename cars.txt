@@ -6,3 +6,5 @@ bugati
 Lexus
 ferrari
 tesla
+chevrolet
+audi
